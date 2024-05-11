@@ -2,7 +2,7 @@
 ![WhatsApp Image 2024-03-15 at 12 04 08 AM](https://github.com/pranavkonidena/pranavkonidena/assets/122373207/184ffe1b-bf19-447d-8915-10440251982a)
 
 # 💫 About Me:
-I am a sophomore at IIT Roorkee pursuing bachelors in technology. Am interested in exploring all spheres of Software Development. Hit me up for a hackathon anytime!<br>Currently , I work as a Mobile Developer [@IMGIITRoorkee](https://github.com/IMGIITRoorkee)
+I am a junior at IIT Roorkee pursuing bachelors in technology. Am interested in exploring all spheres of Software Development. Hit me up for a hackathon anytime!<br>Currently , I work as a Mobile Developer [@IMGIITRoorkee](https://github.com/IMGIITRoorkee)
 
 
 ## 🌐 Socials:
